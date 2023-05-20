@@ -1,45 +1,31 @@
-wibe
+Salam / Hi, I'm
 
-Inspire. Create. Belive
+HUDA
 
-About us
+WEB DEVELOPER
 
-We're fashion studio based in california. 
-We create unique designs that will blow your mind. We also design unique jewellary pieces. 
-Fashion is an ART that can not be grasped by everyone.
+About
 
-We are very dedicated to making our products. 
-We offer unique and creative products to a wide range of people. 
-We have a variety of styles, but for most people, all of the options are in the box. 
-We specialize in making things that make you happy.
+Salam/ Hello! I'm Huda, a passionate web developer specializing in frontend development. I love creating remarkable experiences on the web and bringing ideas to life.
 
-We strive to build on our vision. As a fashion label, we do our best to create amazing experiences for all people. 
-We are always looking to make something that is easy for everyone.
+My journey as a tech enthusiast started during my school days, where I delved into the world of programming by learning C++. Since then, my passion for technology has only grown stronger. 
+At present, my main focus lies in building accessible, inclusive products, elegant, responsive, and user-friendly web applications for a diverse range of clients. 
+
+I have been working extensively with JavaScript, React JS, Node JS, and Webflow. I find immense joy in crafting innovative solutions and continuously expanding my skill set.
 
 
-New Collection:
-
-The brand new collection is currently being developed in USA. 
-We create our products using best quality material, including the use of some of the pure fabrics to make our products. 
-All products are made using the best materials, from the finest cotton to the finest fabrics.
-
-We have lots of different clothing options like shoes, jackets and dresses. 
-Not only clothes but we also provide unique Jewellery as well. 
-It is great for us to carry our new clothes all around the country and look different.
-
-Famous Quotes Used:
-"Fashion is the armour to survive the reality of everyday life."
--- bill cunningham
-
-"One is never over-dressed or under-dressed with a Little Black Dress." —Karl Lagerfeld
+Feel free to explore my portfolio and get in touch.
 
 
-New Arrival:
-There is new collection available for cool clothes in all sizes. 
-This collection is a great way to find a new look for you. 
-It offers a variety of cool apparel styles to fit your taste, while you can also find some cool clothes that you can wear everyday.
+PROJECTS:
 
-The first line of clothing you will see on this collection is for men. 
-The collection also includes three new styles for women.
+ <p>
+            Through hands-on project experience, I've embraced continuous learning as a web developer. <br/><br/>  Each project presents fresh challenges and invaluable lessons, shaping me into a more skilled and adaptable professional. <br/><br/> I thrive on the opportunity to learn, grow, and create exceptional solutions that exceed expectations.
+            </p>
 
-Give it a try and experience a new look.
+        
+
+
+Contact:
+ Whether you have a question or just want to say hi, I’ll get back to you!
+Let's collaborate and turn your ideas into reality! 
